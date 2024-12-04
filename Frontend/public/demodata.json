@@ -1,0 +1,439 @@
+[
+    {
+        "_id": 1,
+        "title": "Mens Bomber Jacket",
+        "collection": "winter",
+        "category": "Men",
+        "subCategory": "NewArrival",
+       "productType":"Jacket",
+        "size": [
+            "XS",
+            "S",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "Mens Bomber Jacket",
+        "image": [
+            "/assets/Men/menjacket1.jpg",
+            "/assets/Men/menjacket2.jpg",
+            "/assets/Men/menjacket3.jpg",
+            "/assets/Men/menjacket4.jpg",
+            "/assets/Men/menjacket5.jpg"
+        ],
+        "discount": 110,
+        "price": 1435,
+        "color": [
+            "Olive",
+            "Poweder Blue"
+        ],
+        "ratings": 4.5,
+        "brand": "Millennial"
+    },
+    {
+        "_id": 2,
+        "title": "Premium Women Jacket",
+        "collection": "winter",
+        "category": "Women",
+        "subCategory": "NewArrival",
+       "productType":"Jacket",
+        "size": [
+            "XS",
+            "S",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "Women Best Jacket",
+        "image": [
+            "/assets/Women/womenjacket1.jpg",
+            "/assets/Women/womenjacket2.jpg",
+            "/assets/Women/womenjacket3.jpg",
+            "/assets/Women/womenjacket4.jpg",
+            "/assets/Women/womenjacket4.jpg"
+        ],
+        "discount": 110,
+        "price": 420,
+        "color": [
+            "Olive",
+            "Poweder Blue"
+        ],
+        "ratings": 4.5,
+        "brand": "Millenium"
+    },
+    {
+        "_id": 10,
+        "title": "Winter Men Jacket",
+        "collection": "winter",
+        "category": "Men",
+        "subCategory": "NewArrival",
+       "productType":"Jacket",
+        "size": [
+            "XS",
+            "S",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "Acer Nitro 5 AN515-57-79TD Gaming Laptop | Intel Core i7-11800H | NVIDIA GeForce RTX 3050 Ti Laptop GPU 8GB DDR4 | 512GB NVMe SSD | Killer Wi-Fi 6 | Backlit Keyboard",
+        "image": [
+            "/assets/Men/menjacket6.jpg",
+            "/assets/Men/menjacket7.jpg",
+            "/assets/Men/menjacket8.jpg",
+            "/assets/Men/menjacket9.jpg",
+            "/assets/Men/menjacket10.jpg"
+        ],
+        "discount": 110,
+        "price": 990,
+        "color": [
+            "Olive",
+            "Poweder Blue"
+        ],
+        "ratings": 4.5,
+        "brand": "Millennial"
+    },
+    {
+        "_id": 11,
+        "title": "Winter Men Jacket",
+        "collection": "winter",
+        "category": "Men",
+        "subCategory": "NewArrival",
+       "productType":"Jacket",
+        "size": [
+            "XS",
+            "S",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "Acer Nitro 5 AN515-57-79TD Gaming Laptop | Intel Core i7-11800H | NVIDIA GeForce RTX 3050 Ti Laptop GPU 8GB DDR4 | 512GB NVMe SSD | Killer Wi-Fi 6 | Backlit Keyboard",
+        "image": [
+            "/assets/Men/menjacket1.jpg",
+            "/assets/Men/menjacket1.jpg",
+            "/assets/Men/menjacket1.jpg",
+            "/assets/Men/menjacket1.jpg",
+            "/assets/Men/menjacket1.jpg"
+        ],
+        "discount": 110,
+        "price": 990,
+        "color": [
+            "Olive",
+            "Poweder Blue"
+        ],
+        "ratings": 4.5,
+        "brand": "Millennial"
+    },
+    {
+        "_id": 12,
+        "title": "Winter Men Jacket ",
+        "collection": "winter",
+        "category": "Men",
+        "subCategory": "NewArrival",
+       "productType":"Jacket",
+        "size": [
+            "XS",
+            "S",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "Acer Nitro 5 AN515-57-79TD Gaming Laptop | Intel Core i7-11800H | NVIDIA GeForce RTX 3050 Ti Laptop GPU 8GB DDR4 | 512GB NVMe SSD | Killer Wi-Fi 6 | Backlit Keyboard",
+        "image": [
+            "/assets/Men/menjacket2.jpg",
+            "/assets/Men/menjacket2.jpg",
+            "/assets/Men/menjacket2.jpg",
+            "/assets/Men/menjacket2.jpg",
+            "/assets/Men/menjacket2.jpg"
+        ],
+        "discount": 110,
+        "price": 990,
+        "color": [
+            "Olive",
+            "Poweder Blue"
+        ],
+        "ratings": 4.5,
+        "brand": "Millennial"
+    },
+    {
+        "_id": 13,
+        "title": "Winter Men Jacket ",
+        "collection": "winter",
+        "category": "Men",
+        "subCategory": "NewArrival",
+       "productType":"Jacket",
+        "size": [
+            "XS",
+            "S",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "Acer Nitro 5 AN515-57-79TD Gaming Laptop | Intel Core i7-11800H | NVIDIA GeForce RTX 3050 Ti Laptop GPU 8GB DDR4 | 512GB NVMe SSD | Killer Wi-Fi 6 | Backlit Keyboard",
+        "image": [
+            "/assets/Men/menjacket3.jpg",
+            "/assets/Men/menjacket3.jpg",
+            "/assets/Men/menjacket3.jpg",
+            "/assets/Men/menjacket3.jpg",
+            "/assets/Men/menjacket3.jpg"
+        ],
+        "discount": 110,
+        "price": 990,
+        "color": [
+            "Olive",
+            "Poweder Blue"
+        ],
+        "ratings": 4.5,
+        "brand": "Millennial"
+    },
+    {
+        "_id": 9,
+        "title": "Premium Bomber Jacket",
+        "collection": "winter",
+        "category": "Women",
+        "subCategory": "NewArrival",
+       "productType":"Jacket",
+        "size": [
+            "XS",
+            "S",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "Acer Nitro 5 AN515-57-79TD Gaming Laptop | Intel Core i7-11800H | NVIDIA GeForce RTX 3050 Ti Laptop GPU 8GB DDR4 | 512GB NVMe SSD | Killer Wi-Fi 6 | Backlit Keyboard",
+        "image": [
+            "/assets/Women/womenjacket4.jpg",
+            "/assets/Women/womenjacket3.jpg",
+            "/assets/Women/womenjacket1.jpg",
+            "/assets/Women/womenjacket2.jpg",
+            "/assets/Women/womenjacket4.jpg"
+        ],
+        "discount": 110,
+        "price": 590,
+        "color": [
+            "Olive",
+            "Poweder Blue"
+        ],
+        "ratings": 4.5,
+        "brand": "Millenium"
+    },
+    {
+        "_id": 5,
+        "title": "Best Kids Jackets",
+        "collection": "Dell 2024  New arrival",
+        "category": "kids",
+        "subCategory": "BestSelling",
+       "productType":"Jacket",
+        "size": [
+            "XS",
+            "S",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "Acer Nitro 5 AN515-57-79TD Gaming Laptop | Intel Core i7-11800H | NVIDIA GeForce RTX 3050 Ti Laptop GPU 8GB DDR4 | 512GB NVMe SSD | Killer Wi-Fi 6 | Backlit Keyboard",
+        "image": [
+            "/assets/MinasDream/minasdream1.jpg",
+            "/assets/MinasDream/minasdream1.jpg",
+            "/assets/MinasDream/minasdream1.jpg",
+            "/assets/MinasDream/minasdream1.jpg",
+            "/assets/MinasDream/minasdream1.jpg"
+        ],
+        "discount": 110,
+        "price": 540,
+        "color": [
+            "Neon",
+            "White",
+            "Green"
+        ],
+        "ratings": 4.5,
+        "brand": "Mina's Dream"
+    },
+    {
+        "_id": 6,
+        "title": "Bata shocks",
+        "collection": "Dell 2024  New arrival",
+        "category": "Mina's Dream",
+        "subCategory": "NewArrival",
+       "productType":"Jacket",
+        "size": [
+            "XS",
+            "S",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "Acer Nitro 5 AN515-57-79TD Gaming Laptop | Intel Core i7-11800H | NVIDIA GeForce RTX 3050 Ti Laptop GPU 8GB DDR4 | 512GB NVMe SSD | Killer Wi-Fi 6 | Backlit Keyboard",
+        "image": [
+            "/assets/MinasDream/minasdream2.jpg",
+            "/assets/MinasDream/minasdream2.jpg",
+            "/assets/MinasDream/minasdream2.jpg",
+            "/assets/MinasDream/minasdream2.jpg",
+            "/assets/MinasDream/minasdream2.jpg"
+        ],
+        "discount": 110,
+        "price": 4590,
+        "color": [
+            "Neon",
+            "White",
+            "Green"
+        ],
+        "ratings": 4.5,
+        "brand": "minasDream"
+    },
+    {
+        "_id": 8,
+        "title": "Bata shocks",
+        "collection": "Dell 2024  New arrival",
+        "category": "Winter",
+        "subCategory": "BestSelling",
+       "productType":"Jacket",
+        "size": [
+            "XS",
+            "S",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "Acer Nitro 5 AN515-57-79TD Gaming Laptop | Intel Core i7-11800H | NVIDIA GeForce RTX 3050 Ti Laptop GPU 8GB DDR4 | 512GB NVMe SSD | Killer Wi-Fi 6 | Backlit Keyboard",
+        "image": [
+            "/assets/MinasDream/minasdream1.jpg",
+            "/assets/MinasDream/minasdream1.jpg",
+            "/assets/MinasDream/minasdream1.jpg",
+            "/assets/MinasDream/minasdream1.jpg",
+            "/assets/MinasDream/minasdream1.jpg"
+        ],
+        "discount": 110,
+        "price": 140,
+        "color": [
+            "Neon",
+            "White",
+            "Green"
+        ],
+        "ratings": 4.5,
+        "brand": "minasDream"
+    },
+    {
+        "_id": 4,
+        "title": "Mac book Pro",
+        "collection": "Latest 2024",
+        "category": "Accessories",
+        "subCategory": "BestSelling",
+       "productType":"Jacket",
+        "size": [
+            "XS",
+            "S",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "Acer Nitro 5 AN515-57-79TD Gaming Laptop | Intel Core i7-11800H | NVIDIA GeForce RTX 3050 Ti Laptop GPU 8GB DDR4 | 512GB NVMe SSD | Killer Wi-Fi 6 | Backlit Keyboard",
+        "image": [
+            "/assets/Accessories/accessories1.jpg",
+            "/assets/Accessories/accessories1.jpg",
+            "/assets/Accessories/accessories1.jpg",
+            "/assets/Accessories/accessories1.jpg",
+            "/assets/Accessories/accessories1.jpg"
+        ],
+        "discount": 110,
+        "price": 800,
+        "color": [
+            "Yellow",
+            "Orange"
+        ],
+        "ratings": 4.5,
+        "brand": "Hitachi"
+    },
+    {
+        "_id": 3,
+        "title": "Premium Bag",
+        "collection": "Moder Technology",
+        "category": "Accessories",
+        "subCategory": "BestSelling",
+       "productType":"Jacket",
+        "size": [
+            "XS",
+            "S",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "Acer Nitro 5 AN515-57-79TD Gaming Laptop | Intel Core i7-11800H | NVIDIA GeForce RTX 3050 Ti Laptop GPU 8GB DDR4 | 512GB NVMe SSD | Killer Wi-Fi 6 | Backlit Keyboard",
+        "image": [
+            "/assets/Accessories/accessories2.jpg",
+            "/assets/Accessories/accessories2.jpg",
+            "/assets/Accessories/accessories2.jpg",
+            "/assets/Accessories/accessories2.jpg",
+            "/assets/Accessories/accessories2.jpg"
+        ],
+        "discount": 110,
+        "price": 790,
+        "color": [
+            "blue",
+            "Red"
+        ],
+        "ratings": 7.5,
+        "brand": "gucchi"
+    },
+    {
+        "_id": 14,
+        "title": "Mens Bomber Jacket",
+        "collection": "winter",
+        "category": "Men",
+        "subCategory": "NewArrival",
+       "productType":"Jacket",
+        "size": [
+            "XS",
+            "S",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": "Mens Bomber Jacket",
+        "image": [
+            "/assets/Men/menjacket11.jpg",
+            "/assets/Men/menjacket12.jpg",
+            "/assets/Men/menjacket13.jpg"
+           
+        ],
+        "discount": 110,
+        "price": 2850,
+        "color": [
+            "Olive",
+            "Poweder Blue"
+        ],
+        "ratings": 4.5,
+        "brand": "Millennial"
+    },
+    {
+        "_id": 15,
+        "title": "Men’s Premium Bomber Jacket All Olive",
+        "collection": "winter",
+        "category": "Men",
+        "subCategory": "NewArrival",
+        "productType":"Jacket",
+       
+        "size": [
+            
+            "M",
+            "L",
+            "XL"
+           
+        ],
+        "description": " Acer Nitro 5 AN515-57-79TD Gaming Laptop | Intel Core i7-11800H | NVIDIA GeForce RTX 3050 Ti Laptop GPU 8GB DDR4 | 512GB NVMe SSD | Killer Wi-Fi 6 | Backlit Keyboard",
+        "image": [
+            "/assets/Men/menjacket3.jpg",
+            "/assets/Men/menjacket3.jpg",
+            "/assets/Men/menjacket3.jpg",
+            "/assets/Men/menjacket3.jpg",
+            "/assets/Men/menjacket3.jpg"
+        ],
+        "discount": 110,
+        "price": 990,
+        "color": [
+            "Olive",
+            "Poweder Blue"
+        ],
+        "ratings": 4.5,
+        "brand": "Millennial"
+    }
+]

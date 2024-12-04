@@ -1,0 +1,1090 @@
+[
+    {
+        "_id": 1,
+        "title": "Mens Premium Two-Tone High Neck Jacket",
+       
+        "season":"winter",
+        "category": "Men",
+        "subCategory": "NewArrival",
+        "productType": "Jacket",
+        "size": [
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": [
+            "Fabrics: Microfiber Premium Bonded Fabrics",
+            "Inner Fabrics: Micorfiber Soft 6 Ounce Padding",
+            "Zipper: YKK Metal Zipper",
+            "Rib: 3/3 Solid Rib"
+        ],
+        "sku": "1001",
+        "image": [
+            "/assets/Men/menjacket1.jpg",
+            "/assets/Men/menjacket3.jpg",
+            "/assets/Men/menjacket2.jpg",
+            "/assets/Men/menjacket4.jpg"
+        ],
+        "features": [
+            "Fog, Water, Wind, Dust Proof",
+            "Stylish Design",
+            "Made with Care",
+            "Long Durability"
+        ],
+        "discount": 10,
+        "price": 2990,
+        "color": "Almond & Obsidian Black",
+        "ratings": 4.5,
+        "brand": "Millennial Clothing"
+    },
+    {
+        "_id": 2,
+        "title": "Mens Premium Bomber Jacket",
+       
+        "season":"winter",
+        "category": "Men",
+        "subCategory": "BestSelling",
+        "productType": "Jacket",
+        "size": [
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": [
+            "Fabrics: Microfiber Concod PU Coated",
+            "Inner Fabrics: Micorfiber Soft 3.5 Ounce Padding",
+            "Zipper: YKK Metal Zipper",
+            "Rib: 3/3 Solid Rib"
+        ],
+        "sku": "1002",
+        "image": [
+            "/assets/Men/menjacket5.jpg",
+            "/assets/Men/menjacket6.jpg",
+            "/assets/Men/menjacket7.jpg",
+            "/assets/Men/menjacket8.jpg"
+        ],
+        "features": [
+            "Fog, Water, Wind, Dust Proof",
+            "Stylish Design",
+            "Made with Care",
+            "Long Durability"
+        ],
+        "discount": 10,
+        "price": 1475,
+        "color": "Camouflage Green",
+        "ratings": 5.0,
+        "brand": "Mina's Dream"
+    },
+    {
+        "_id": 3,
+        "title": "Mens Premium Jacquard High Neck Jacket",
+       
+        "season":"winter",
+        "category": "Men",
+        "subCategory": "NewArrival",
+        "productType": "Jacket",
+        "size": [
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": [
+            "Fabrics: Microfiber Premium Jacquard Fabrics",
+            "Inner Fabrics: Micorfiber Soft Sherpa Fleece",
+            "Zipper: YKK Metal Zipper"
+        ],
+        "sku": "1003",
+        "image": [
+            "/assets/Men/menjacket9.jpg",
+            "/assets/Men/menjacket10.jpg",
+            "/assets/Men/menjacket11.jpg",
+            "/assets/Men/menjacket12.jpg"
+        ],
+        "features": [
+            "Fog, Water, Wind, Dust Proof",
+            "Stylish Design",
+            "Made with Care",
+            "Long Durability"
+        ],
+        "discount": 10,
+        "price": 2490,
+        "color": "Frost Jacquard & Obsidian Black",
+        "ratings": 5.0,
+        "brand": "Millennial Clothing"
+    },
+    {
+        "_id": 4,
+        "title": "Mens Premium Two-Tone Bomber Jacket",
+       
+        "season":"winter",
+        "category": "Men",
+        "subCategory": "NewArrival",
+        "productType": "Jacket",
+        "size": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": [
+            "Fabrics: Microfiber Suskin PU Coated",
+            "Inner Fabrics: Microfiber Soft 3.5 Ounce Padding",
+            "Zipper: Vislon Premium Zipper",
+            "Rib : 3/3 Solid Rib"
+        ],
+        "sku": "1004",
+        "image": [
+            "/assets/Men/menjacket13.webp",
+            "/assets/Men/menjacket14.webp",
+            "/assets/Men/menjacket15.webp"
+        ],
+        "features": [
+            "Fog, Water, Wind, Dust Proof",
+            "Stylish Design",
+            "Made with Care",
+            "Long Durability"
+        ],
+        "discount": 20.67,
+        "price": 1500,
+        "color": "Black & Olive",
+        "ratings": 5.0,
+        "brand": "Mina'S Dream"
+    },
+    {
+        "_id": 5,
+        "title": "Mens Premium High Neck Jacket",
+       
+        "season":"winter",
+        "category": "Men",
+        "subCategory": "NewArrival",
+        "productType": "Jacket",
+        "size": [
+            "L"
+        ],
+        "description": [
+            "Fabrics: Microfiber Suskin PU Coated",
+            "Inner Fabrics: Micorfiber Soft 210 T Taffeta",
+            "Zipper: Vislon Premium Zipper",
+            "Rib : 3/3 Solid Rib"
+        ],
+        "sku": "1005",
+        "image": [
+            "/assets/Men/menjacket16.jpg",
+            "/assets/Men/menjacket17.webp",
+            "/assets/Men/menjacket18.webp"
+        ],
+        "features": [
+            "Fog, Water, Wind, Dust Proof",
+            "Stylish Design",
+            "Made with Care",
+            "Long Durability"
+        ],
+        "discount": 10,
+        "price": 1890,
+        "color": "Obsidian Black",
+        "ratings": 5.0,
+        "brand": "Millennial"
+    },
+    {
+        "_id": 6,
+        "title": "Men's Premium Bomber Jacket",
+       
+        "season":"winter",
+        "category": "Men",
+        "subCategory": "NewArrival",
+        "productType": "Jacket",
+        "size": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": [
+            "Fabrics: Microfiber Suskin PU Coated",
+            "Inner Fabrics: Soft Microfiber 3.5 Ounce Padding",
+            "Zipper: Vislon Premium Zipper",
+            "Rib : 3/3 Solid Rib"
+        ],
+        "sku": "1006",
+        "image": [
+            "/assets/Men/menjacket19.webp",
+            "/assets/Men/menjacket20.webp",
+            "/assets/Men/menjacket21.webp",
+            "/assets/Men/menjacket22.webp",
+            "/assets/Men/menjacket23.webp"
+        ],
+        "features": [
+            "Fog, Water, Wind, Dust Proof",
+            "Stylish Design",
+            "Made with Care",
+            "Long Durability"
+        ],
+        "discount": 20.43,
+        "price": 1495,
+        "color": "Maroon",
+        "ratings": 5.0,
+        "brand": "Mina's Dream"
+    },
+    {
+        "_id": 7,
+        "title": "Mens Premium High Neck Jacket",
+       
+        "season":"winter",
+        "category": "Men",
+        "subCategory": "NewArrival",
+        "productType": "Jacket",
+        "size": [
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": [
+            "Fabrics: Microfiber Suskin PU Coated",
+            "Inner Fabrics: Micorfiber Soft 210 T Taffetag",
+            "Zipper: YKK Metal Zipper",
+            "Rib : 3/3 Solid Rib"
+        ],
+        "sku": "1007",
+        "image": [
+            "/assets/Men/menjacket24.jpg",
+            "/assets/Men/menjacket25.jpg",
+            "/assets/Men/menjacket26.jpg",
+            "/assets/Men/menjacket27.jpg"
+        ],
+        "features": [
+            "Fog, Water, Wind, Dust Proof",
+            "Stylish Design",
+            "Made with Care",
+            "Long Durability"
+        ],
+        "discount": 10,
+        "price": 1890,
+        "color": "Obsidian Stripe",
+        "ratings": 5.0,
+        "brand": "Millennial Clothing"
+    },
+    {
+        "_id": 8,
+        "title": "Mens Premium High Neck Jacket",
+       
+        "season":"winter",
+        "category": "Men",
+        "subCategory": "NewArrival",
+        "productType": "Jacket",
+        "size": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": [
+            "Fabrics: Microfiber Suskin PU Coated",
+            "Inner Fabrics:Micorfiber Soft 3.5 Ounce Padding",
+            "Zipper: Vislon Premium Zipper",
+            "Rib : 3/3 Solid Rib"
+        ],
+        "sku": "1008",
+        "image": [
+            "/assets/Men/menjacket28.webp",
+            "/assets/Men/menjacket29.webp",
+            "/assets/Men/menjacket30.webp",
+            "/assets/Men/menjacket31.webp",
+            "/assets/Men/menjacket32.webp"
+        ],
+        "features": [
+            "Fog, Water, Wind, Dust Proof",
+            "Stylish Design",
+            "Made with Care",
+            "Long Durability"
+        ],
+        "discount": 17.93,
+        "price": 1450,
+        "color": "Navy Blue",
+        "ratings": 5.0,
+        "brand": "Mina's Dream"
+    },
+    {
+        "_id": 9,
+        "title": "Men’s Premium Two-Tone Bomber Jacket",
+       
+        "season":"winter",
+        "category": "Men",
+        "subCategory": "NewArrival",
+        "productType": "Jacket",
+        "size": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": [
+            "Fabrics: Microfiber Suskin PU Coated",
+            "Inner Fabrics:Micorfiber Soft 3.5 Ounce Padding",
+            "Zipper: Vislon Premium Zipper",
+            "Rib : 3/3 Solid Rib"
+        ],
+        "sku": "1009",
+        "image": [
+            "/assets/Men/menjacket33.webp",
+            "/assets/Men/menjacket34.webp",
+            "/assets/Men/menjacket35.webp"
+        ],
+        "features": [
+            "Fog, Water, Wind, Dust Proof",
+            "Stylish Design",
+            "Made with Care",
+            "Long Durability"
+        ],
+        "discount": 20.40,
+        "price": 1495,
+        "color": "Olive & Powder Blue",
+        "ratings": 5.0,
+        "brand": "Mina's Dream"
+    },
+    {
+        "_id": 10,
+        "title": "Mens Premium Two-Tone High Neck Jacket",
+       
+        "season":"winter",
+        "category": "Men",
+        "subCategory": "NewArrival",
+        "productType": "Jacket",
+        "size": [
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": [
+            "Fabrics: Microfiber Premium Bonded Fabrics",
+            "Inner Fabrics: Micorfiber Soft 6 Ounce Padding",
+            "Zipper: YKK Metal Zipper",
+            "Rib : 3/3 Solid Rib"
+        ],
+        "sku": "1010",
+        "image": [
+            "/assets/Men/menjacket36.jpg",
+            "/assets/Men/menjacket37.jpg",
+            "/assets/Men/menjacket38.jpg"
+        ],
+        "features": [
+            "Fog, Water, Wind, Dust Proof",
+            "Stylish Design",
+            "Made with Care",
+            "Long Durability"
+        ],
+        "discount": 10,
+        "price": 2990,
+        "color": "Obsidian Black & Almond",
+        "ratings": 5.0,
+        "brand": "Millennial Clothing"
+    },
+    {
+        "_id": 11,
+        "title": "Men’s Premium Bomber Jacket",
+       
+        "season":"winter",
+        "category": "Men",
+        "subCategory": "NewArrival",
+        "productType": "Jacket",
+        "size": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": [
+            "Fabrics: Microfiber Suskin PU Coated",
+            "Inner Fabrics: Microfiber Soft 3.5 Ounce Padding",
+            "Zipper: Vislon Premium Zipper",
+            "Rib : 3/3 Solid Rib"
+        ],
+        "sku": "1011",
+        "image": [
+            "/assets/Men/menjacket39.webp",
+            "/assets/Men/menjacket40.webp",
+            "/assets/Men/menjacket41.webp",
+            "/assets/Men/menjacket42.webp",
+            "/assets/Men/menjacket43.webp"
+        ],
+        "features": [
+            "Fog, Water, Wind, Dust Proof",
+            "Stylish Design",
+            "Made with Care",
+            "Long Durability"
+        ],
+        "discount": 17.93,
+        "price": 1450,
+        "color": "Dark Olive",
+        "ratings": 5.0,
+        "brand": "Mina's Dream"
+    },
+    {
+        "_id": 12,
+        "title": "Mens Premium Camo High Neck Jacket",
+       
+        "season":"winter",
+        "category": "Men",
+        "subCategory": "NewArrival",
+        "productType": "Jacket",
+        "size": [
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": [
+            "Fabrics: Microfiber Suskin PU Coated",
+            "Inner Fabrics: Micorfiber Soft 210T Taffeta",
+            "Zipper: YKK Metal Zipper",
+            "Rib : 3/3 Solid Rib"
+        ],
+        "sku": "1012",
+        "image": [
+            "/assets/Men/menjacket44.jpg",
+            "/assets/Men/menjacket45.jpg",
+            "/assets/Men/menjacket46.jpg",
+            "/assets/Men/menjacket47.jpg"
+        ],
+        "features": [
+            "Fog, Water, Wind, Dust Proof",
+            "Stylish Design",
+            "Made with Care",
+            "Long Durability"
+        ],
+        "discount": 10,
+        "price": 1475,
+        "color": "Camouflage Green",
+        "ratings": 5.0,
+        "brand": "Mina's Dream"
+    },
+    {
+        "_id": 13,
+        "title": "Mens Premium Camo High Neck Jacket",
+       
+        "season":"winter",
+        "category": "Men",
+        "subCategory": "NewArrival",
+        "productType": "Jacket",
+        "size": [
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": [
+            "Fabrics: Microfiber Suskin PU Coated",
+            "Inner Fabrics: Micorfiber Soft 210 T Taffeta",
+            "Zipper: YKK Metal Zipper",
+            "Rib : 3/3 Solid Rib"
+        ],
+        "sku": "1013",
+        "image": [
+            "/assets/Men/menjacket48.jpg",
+            "/assets/Men/menjacket49.jpg",
+            "/assets/Men/menjacket50.jpg"
+        ],
+        "features": [
+            "Fog, Water, Wind, Dust Proof",
+            "Stylish Design",
+            "Made with Care",
+            "Long Durability"
+        ],
+        "discount": 10,
+        "price": 1890,
+        "color": "Olive Stripe",
+        "ratings": 5.0,
+        "brand": "Millennial Clothing"
+    },
+    {
+        "_id": 14,
+        "title": "Men’s Premium Bomber Jacket All Olive",
+       
+        "season":"winter",
+        "category": "Men",
+        "subCategory": "NewArrival",
+        "productType": "Jacket",
+        "size": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": [
+            "Fabrics: Microfiber Suskin PU Coated",
+            "Inner Fabrics: Soft Microfiber Padding 3.5 Ounce",
+            "Zipper: Vislon Premium Zipper",
+            "Rib : 3/3 Solid Rib"
+        ],
+        "sku": "1014",
+        "image": [
+            "/assets/Men/menjacket51.webp",
+            "/assets/Men/menjacket52.webp",
+            "/assets/Men/menjacket53.webp",
+            "/assets/Men/menjacket54.webp"
+        ],
+        "features": [
+            "Fog, Water, Wind, Dust Proof",
+            "Stylish Design",
+            "Made with Care",
+            "Long Durability"
+        ],
+        "discount": 20.40,
+        "price": 1495,
+        "color": "ALL Olive",
+        "ratings": 5.0,
+        "brand": "Millennial Clothing"
+    },
+    {
+        "_id": 15,
+        "title": "Women Premium Jacquard Jacket",
+       
+        "season":"winter",
+        "category": "Women",
+        "subCategory": "NewArrival",
+        "productType": "Jacket",
+        "size": [
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "description": [
+            "Fabrics: Microfiber Premium Jacquard Fabrics",
+            "Inner Fabrics: Micorfiber Soft Sherpa Fleece",
+            "Zipper: Vislon Premium Zipper"
+        ],
+        "sku": "1015",
+        "image": [
+            "/assets/Women/womenjacket1.jpg",
+            "/assets/Women/womenjacket2.jpg",
+            "/assets/Women/womenjacket3.jpg",
+            "/assets/Women/womenjacket4.jpg"
+        ],
+        "features": [
+            "Fog, Water, Wind, Dust Proof",
+            "Stylish Design",
+            "Made with Care",
+            "Long Durability"
+        ],
+        "discount": 10,
+        "price": 2490,
+        "color": "Frost Jacquard & Blush Rose",
+        "ratings": 5.0,
+        "brand": "Millennial Clothing"
+    },
+    {
+        "_id": 16,
+        "title": "Mens Premium Two-Tone High Neck Jacket",
+       
+        "season":"winter",
+        "category": "Men",
+        "subCategory": "NewArrival",
+        "productType": "Jacket",
+        "size": [
+            "L"
+        ],
+        "description": [
+            "Fabrics: Microfiber Suskin PU Coated",
+            "Inner Fabrics: Micorfiber Soft 3.5 Ounce Padding",
+            "Zipper: Vislon Premium Zipper",
+            "Rib : 3/3 Solid Rib"
+        ],
+        "sku": "1016",
+        "image": [
+            "/assets/Men/menjacket55.jpg",
+            "/assets/Men/menjacket56.png"
+        ],
+        "features": [
+            "Fog, Water, Wind, Dust Proof",
+            "Stylish Design",
+            "Made with Care",
+            "Long Durability"
+        ],
+        "discount": 33.86,
+        "price": 1890,
+        "color": "Obsidian Black & White",
+        "ratings": 5.0,
+        "brand": "Millennial Clothing"
+    },
+    {
+        "_id": 160,
+        "title": "Millennial Signature Cap",
+        "season":"accessories",
+        "category": "Accessories",
+        "subCategory": "",
+        "productType": "Accessories",
+        "size": [
+            "One Size"
+        ],
+        "description": [
+            "Fabrics: Microfiber Velvet PU Coated",
+            "Strap: Metal"
+        ],
+        "sku": "10160",
+        "image": [
+            "/assets/Men/cap1.jpg",
+            "/assets/Men/cap2.jpg"
+        ],
+        "features": [
+            "Fog, Water, Wind, Dust Proof",
+            "Stylish Design",
+            "Made with Care",
+            "Long Durability"
+        ],
+        "discount": 40,
+        "price": 750,
+        "color": "Antique",
+        "ratings": 5.0,
+        "brand": "Millennial Clothing"
+    },
+    {
+        "_id": 161,
+        "title": "Millennial Signature Cap",
+        "season":"accessories",
+        "category": "Accessories",
+        "subCategory": "",
+        "productType": "Accessories",
+        "size": [
+            "One Size"
+        ],
+        "description": [
+            "Fabrics: Microfiber Velvet PU Coated",
+            "Strap: Metal"
+        ],
+        "sku": "10161",
+        "image": [
+            "/assets/Men/cap3.jpg",
+            "/assets/Men/cap1.jpg"
+        ],
+        "features": [
+            "Fog, Water, Wind, Dust Proof",
+            "Stylish Design",
+            "Made with Care",
+            "Long Durability"
+        ],
+        "discount": 40,
+        "price": 750,
+        "color": "Gray ",
+        "ratings": 5.0,
+        "brand": "Millennial Clothing"
+    },
+    {
+        "_id": 170,
+        "title": "Kid's Coming Soon !!",
+        "season":"regular",
+        "category": "kids",
+        "subCategory": "kids",
+        "productType": "kids",
+        "size": [
+            "L"
+        ],
+        "description": [
+            "Accessories Coming Soon"
+        ],
+        "sku": "10170",
+        "image": [
+            "/assets/Accessories/comingsoon.jpg"
+        ],
+        "features": [
+            "Fog, Water, Wind, Dust Proof",
+            "Stylish Design",
+            "Made with Care",
+            "Long Durability"
+        ],
+        "discount": 0,
+        "price": 0,
+        "color": "Antique, Gray ",
+        "ratings": 0.0,
+        "brand": "Millennial Clothing"
+    },
+    {
+        "_id": 17,
+        "title": "Women Premium High Neck Jacket",
+       
+        "season":"winter",
+        "category": "Women",
+        "subCategory": "NewArrival",
+        "productType": "Jacket",
+        "size": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": [
+            "Fabrics: Microfiber Suskin PU Coated",
+            "Inner Fabrics: Microfiber Soft 210 T Taffeta",
+            "Zipper: Vislon Premium Zipper",
+            "Rib : 3/3 Solid Rib"
+        ],
+        "sku": "1017",
+        "image": [
+            "/assets/Women/womenjacket5.jpg",
+            "/assets/Women/womenjacket5.jpg"
+        ],
+        "features": [
+            "Fog, Water, Wind, Dust Proof",
+            "Stylish Design",
+            "Made with Care",
+            "Long Durability"
+        ],
+        "discount": 17.49,
+        "price": 1515,
+        "color": "Powder Blue & White",
+        "ratings": 5.0,
+        "brand": "Millennial"
+    },
+    {
+        "_id": 18,
+        "title": "Mens Bomber Jacket",
+       
+        "season":"winter",
+        "category": "Men",
+        "subCategory": "NewArrival",
+        "productType": "Jacket",
+        "size": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": [
+            "Fabrics: Microfiber Suskin PU Coatedd",
+            "Inner Fabrics: Microfiber Soft 210 T Taffeta",
+            "Zipper: Vislon Premium Zipper",
+            "Rib : 3/3 Solid Rib"
+        ],
+        "sku": "1018",
+        "image": [
+            "/assets/Men/menjacket57.jpg",
+            "/assets/Men/menjacket58.jpg",
+            "/assets/Men/menjacket59.jpg",
+            "/assets/Men/menjacket60.jpg"
+        ],
+        "features": [
+            "Fog, Water, Wind, Dust Proof",
+            "Stylish Design",
+            "Made with Care",
+            "Long Durability"
+        ],
+        "discount": 15,
+        "price": 1400,
+        "color": "Black",
+        "ratings": 5.0,
+        "brand": "Mina's Dream"
+    },
+    {
+        "_id": 19,
+        "title": "Men's Premium High Neck Jacket",
+       
+        "season":"winter",
+        "category": "Men",
+        "subCategory": "NewArrival",
+        "productType": "Jacket",
+        "size": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": [
+            "Fabrics: Microfiber Suskin PU Coatedd",
+            "Inner Fabrics: Microfiber Soft 210 T Taffeta",
+            "Zipper: Vislon Premium Zipper",
+            "Rib : 3/3 Solid Rib"
+        ],
+        "sku": "1019",
+        "image": [
+            "/assets/Men/menjacket63.jpg",
+            "/assets/Men/menjacket62.jpg",
+            "/assets/Men/menjacket61.jpg"
+        ],
+        "features": [
+            "Fog, Water, Wind, Dust Proof",
+            "Stylish Design",
+            "Made with Care",
+            "Long Durability"
+        ],
+        "discount": 15,
+        "price": 1470,
+        "color": "Black",
+        "ratings": 5.0,
+        "brand": "Mina's Dream"
+    },
+    {
+        "_id": 22,
+        "title": "Couples Signature Combo Jacket",
+       
+        "season":"winter",
+        "category": "Couple Goals",
+        "subCategory": "NewArrival",
+        "productType": "Jacket",
+        "size": [
+            "M*M (Men*Women)",
+            "M*L",
+            "M*XL",
+            "L*M",
+            "L*L",
+            "L*XL",
+            "Xl*M",
+            "Xl*L",
+            "Xl*XL"
+        ],
+        "description": [
+            "Fabrics: Microfiber Suskin PU Coatedd",
+            "Inner Fabrics: Microfiber Soft 210 T Taffeta",
+            "Zipper: Vislon Premium Zipper",
+            "Rib : 3/3 Solid Rib"
+        ],
+        "sku": "1022",
+        "image": [
+            "/assets/Combo/combo7.jpg",
+            "/assets/Combo/combo8.jpg",
+            "/assets/Combo/combo9.jpg"
+        ],
+        "features": [
+            "Fog, Water, Wind, Dust Proof",
+            "Stylish Design",
+            "Made with Care",
+            "Long Durability"
+        ],
+        "discount": 15,
+        "price": 4380,
+        "color": "Black Stripe & Frost Jacquard",
+        "ratings": 5.0,
+        "brand": "Millennial"
+    },
+    {
+        "_id": 20,
+        "title": "Couples Signature Combo Jacket",
+       
+        "season":"winter",
+        "category": "Couple Goals",
+        "subCategory": "NewArrival",
+        "productType": "Jacket",
+        "size": [
+            "M*M (Men*Women)",
+            "M*L",
+            "M*XL",
+            "L*M",
+            "L*L",
+            "L*XL",
+            "Xl*M",
+            "Xl*L",
+            "Xl*XL"
+        ],
+        "description": [
+            "Fabrics: Microfiber Suskin PU Coatedd",
+            "Inner Fabrics: Microfiber Soft 210 T Taffeta",
+            "Zipper: Vislon Premium Zipper",
+            "Rib : 3/3 Solid Rib"
+        ],
+        "sku": "1020",
+        "image": [
+            "/assets/Combo/combo3.jpg",
+            "/assets/Combo/combo2.jpg",
+            "/assets/Combo/combo1.jpg"
+        ],
+        "features": [
+            "Fog, Water, Wind, Dust Proof",
+            "Stylish Design",
+            "Made with Care",
+            "Long Durability"
+        ],
+        "discount": 15,
+        "price": 4380,
+        "color": "Olive Stripe & Frost Jacquard",
+        "ratings": 5.0,
+        "brand": "Millennial"
+    },
+    {
+        "_id": 21,
+        "title": "Couples Signature Combo Jacket",
+       
+        "season":"winter",
+        "category": "Couple Goals",
+        "subCategory": "NewArrival",
+        "productType": "Jacket",
+        "size": [
+            "M*M (Men*Women)",
+            "M*L",
+            "M*XL",
+            "L*M",
+            "L*L",
+            "L*XL",
+            "Xl*M",
+            "Xl*L",
+            "Xl*XL"
+        ],
+        "description": [
+            "Fabrics: Microfiber Suskin PU Coatedd",
+            "Inner Fabrics: Microfiber Soft 210 T Taffeta",
+            "Zipper: Vislon Premium Zipper",
+            "Rib : 3/3 Solid Rib"
+        ],
+        "sku": "1021",
+        "image": [
+            "/assets/Combo/combo4.jpg",
+            "/assets/Combo/combo5.jpg",
+            "/assets/Combo/combo6.jpg"
+        ],
+        "features": [
+            "Fog, Water, Wind, Dust Proof",
+            "Stylish Design",
+            "Made with Care",
+            "Long Durability"
+        ],
+        "discount": 15,
+        "price": 5480,
+        "color": "Frost Jacquard & Almond",
+        "ratings": 5.0,
+        "brand": "Millennial"
+    },
+    {
+        "_id": 23,
+        "title": "Couples Signature Combo Jacket",
+       
+        "season":"winter",
+        "category": "Couple Goals",
+        "subCategory": "NewArrival",
+        "productType": "Jacket",
+        "size": [
+            "M*M (Men*Women)",
+            "M*L",
+            "M*XL",
+            "L*M",
+            "L*L",
+            "L*XL",
+            "Xl*M",
+            "Xl*L",
+            "Xl*XL"
+        ],
+        "description": [
+            "Fabrics: Microfiber Suskin PU Coatedd",
+            "Inner Fabrics: Microfiber Soft 210 T Taffeta",
+            "Zipper: Vislon Premium Zipper",
+            "Rib : 3/3 Solid Rib"
+        ],
+        "sku": "1029",
+        "image": [
+            "/assets/Combo/combo10.jpg",
+            "/assets/Combo/combo11.jpg",
+            "/assets/Combo/combo12.jpg"
+        ],
+        "features": [
+            "Fog, Water, Wind, Dust Proof",
+            "Stylish Design",
+            "Made with Care",
+            "Long Durability"
+        ],
+        "discount": 15,
+        "price": 4980,
+        "color": "Frost Jacquard",
+        "ratings": 5.0,
+        "brand": "Millennial"
+    },
+    {
+        "_id": 24,
+        "title": "Mens High Neck Jacket",
+       
+        "season":"winter",
+        "category": "Men",
+        "subCategory": "NewArrival",
+        "productType": "Jacket",
+        "size": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": [
+            "Fabrics: Microfiber Suskin PU Coatedd",
+            "Inner Fabrics: Microfiber Soft 210 T Taffeta",
+            "Zipper: Vislon Premium Zipper",
+            "Rib : 3/3 Solid Rib"
+        ],
+        "sku": "1024",
+        "image": [
+            "/assets/Men/menjacket64.png",
+            "/assets/Men/menjacket65.jpg"
+        ],
+        "features": [
+            "Fog, Water, Wind, Dust Proof",
+            "Stylish Design",
+            "Made with Care",
+            "Long Durability"
+        ],
+        "discount": 15,
+        "price": 1400,
+        "color": "Almond",
+        "ratings": 5.0,
+        "brand": "Mina's Dream"
+    },
+    {
+        "_id": 25,
+        "title": "Mens High Neck Jacket",
+       
+        "season":"winter",
+        "category": "Men",
+        "subCategory": "NewArrival",
+        "productType": "Jacket",
+        "size": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": [
+            "Fabrics: Microfiber Suskin PU Coatedd",
+            "Inner Fabrics: Microfiber Soft 210 T Taffeta",
+            "Zipper: Vislon Premium Zipper",
+            "Rib : 3/3 Solid Rib"
+        ],
+        "sku": "1025",
+        "image": [
+            "/assets/Men/menjacket66.jpg",
+            "/assets/Men/menjacket67.jpg"
+        ],
+        "features": [
+            "Fog, Water, Wind, Dust Proof",
+            "Stylish Design",
+            "Made with Care",
+            "Long Durability"
+        ],
+        "discount": 15,
+        "price": 1400,
+        "color": "Navy Blue",
+        "ratings": 5.0,
+        "brand": "Mina's Dream"
+    },
+    {
+        "_id": 26,
+        "title": "Mens High Neck Jacket",
+       
+        "season":"winter",
+        "category": "Men",
+        "subCategory": "NewArrival",
+        "productType": "Jacket",
+        "size": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "description": [
+            "Fabrics: Microfiber Suskin PU Coatedd",
+            "Inner Fabrics: Microfiber Soft 210 T Taffeta",
+            "Zipper: Vislon Premium Zipper",
+            "Rib : 3/3 Solid Rib"
+        ],
+        "sku": "1026",
+        "image": [
+            "/assets/Men/menjacket68.jpg",
+            "/assets/Men/menjacket69.jpg"
+        ],
+        "features": [
+            "Fog, Water, Wind, Dust Proof",
+            "Stylish Design",
+            "Made with Care",
+            "Long Durability"
+        ],
+        "discount": 15,
+        "price": 1470,
+        "color": "Petrol Blue & White",
+        "ratings": 5.0,
+        "brand": "Mina's Dream"
+    }
+]
